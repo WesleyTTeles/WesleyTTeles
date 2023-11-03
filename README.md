@@ -1,7 +1,7 @@
 ### Olá, Eu sou Wesley Teles 👋
 - 👨🏽‍🎓 Estudante de ADS no Penúltimo Período
 - 👨🏽‍💻 Em busca da Tao sonhada Vaga de Programador
-- 📝 Atulmente Estudando React.js ja com o uso do Typescript
+- 📝 Atulmente Estudando React.js e React Native com Styled Components
 - 🤖 Desenvolvendo Bots com Python
 
 #### Saiba mais sobre mim acessando meu portifólio:
